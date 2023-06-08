@@ -4,7 +4,7 @@
 </h2>
 
 
-![bigspring-light](https://demo.gethugothemes.com/thumbnails/bigspring-light.png)
+![rotech](https://demo.gethugothemes.com/thumbnails/bigspring-light.png)
 
 ## 🔑Key Features
 
