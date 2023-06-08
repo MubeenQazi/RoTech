@@ -4,7 +4,7 @@
 </h2>
 
 
-![rotech](https://demo.gethugothemes.com/thumbnails/bigspring-light.png)
+![rotech](https://github.com/MubeenQazi/RoTech/blob/main/Screenshot%202023-06-08%20053425.png)
 
 ## 🔑Key Features
 
